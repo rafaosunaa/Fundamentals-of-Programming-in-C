@@ -1,0 +1,2 @@
+# Fundamentals of Programming in C
+ I have completed a series of exercises designed to reinforce and learn the key concepts of programming. Through practice with variables, control structures, functions, and error handling, I have improved my problem-solving skills and programming logic. These exercises have allowed me to apply theory to real-world situations, deepening my understanding of the C language and laying a solid foundation for future software development projects.
